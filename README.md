@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sami Ul Haq, MSc @sulhaq97
-- 👀 I’m interested in cancer epigenetics, multi-omics, and applying machine learning to non-coding regions of the genome
+- 👀 I’m interested in cancer epigenetics, liquid biopsies/cfDNA, cancer multi-omics, and applying machine learning to non-coding regions of the genome
 - 📫 How to reach me: s.ulhaq.md@gmail.com
 
 <!---
