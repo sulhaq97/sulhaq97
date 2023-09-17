@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sami Ul Haq, MSc @sulhaq97
+- 👋 Hi, I’m Sami Ul Haq, MSc, MD(c) @sulhaq97
 - 👀 I’m interested in cancer epigenetics, liquid biopsies/cfDNA, cancer multi-omics, and applying machine learning to non-coding regions of the genome
 - 📫 How to reach me: s.ulhaq.md@gmail.com
 
